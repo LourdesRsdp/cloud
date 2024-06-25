@@ -17,6 +17,8 @@
     animation: fadeInOut 3s ease-in-out infinite;
 }
 
+
+
 @keyframes fadeInOut {
     0% {
         opacity: 0;
