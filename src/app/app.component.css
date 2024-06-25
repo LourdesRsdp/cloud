@@ -14,7 +14,7 @@
 }
 
 .first-message {
-    animation: fadeInOut 3s ease-in-out forwards;
+    animation: fadeInOut 3s ease-in-out infinite;
 }
 
 @keyframes fadeInOut {
